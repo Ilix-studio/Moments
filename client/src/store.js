@@ -11,5 +11,6 @@ const store = createStore(
   rootReducer,
   initialState,
   composeWithDevTools(applyMiddleware(...middleware))
+  // using spread operator to expand the array of middleware in applyMiddleware method
 );
 export default store;
