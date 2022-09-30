@@ -1,4 +1,0 @@
-{
-  "mongoURI": "mongodb+srv://thrill24:seeker24@cluster0.ogfve.mongodb.net/myFirstDatabase?retryWrites=true&w=majority",
-  "jwtSecret": "mysecrettoken"
-}
